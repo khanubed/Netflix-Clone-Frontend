@@ -12,7 +12,7 @@ body {
 }
 
 .Display1 {
-    background-image: url(background.webp);
+    background-image: url(Assets/background.webp);
     background-position:  center;
 
     background-size: cover;
@@ -161,19 +161,19 @@ nav button {
     margin-bottom: 60px;
 }
 #poster1{
-    background-image: url(image1.webp);
+    background-image: url(Assets/image1.webp);
 }
 #poster2{
-    background-image: url(image2.webp);
+    background-image: url(Assets/image2.webp);
 }
 #poster3{
-    background-image: url(image3.webp);
+    background-image: url(Assets/image3.webp);
 }
 #poster4{
-    background-image: url(image4.webp);
+    background-image: url(Assets/image4.webp);
 }
 #poster5{
-    background-image: url(image5.webp);
+    background-image: url(Assets/image5.webp);
 }
 .posterbox{
     display: flex;
